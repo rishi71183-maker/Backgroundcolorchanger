@@ -1,0 +1,24 @@
+.button {
+    /* Allows width/height styling for span elements */
+    padding: 20px 40px;
+    border-radius: 8px;
+    color: #212121;
+    text-decoration: none;
+    border: 2px solid #212121; 
+}
+
+#grey {
+    background-color: grey;
+}
+#white {
+    background-color: white;
+}
+#blue {
+    background-color: blue;
+}
+#yellow {
+    background-color: yellow;
+}
+#purple {
+    background-color: purple;
+}
